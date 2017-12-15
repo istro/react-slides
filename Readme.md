@@ -1,36 +1,8 @@
-## Reveal.js + Livereload (with gulp) boilerplate
 
-If you find yourself making slides for presentations now and then, [reveal.js](https://revealjs.com/) is a sweet way to make awesome slide decks.
+Some slides about react. Intended as notes to organize my thoughts when I give a brief overview to my teammates.
 
-If you're more comfortable writing markdown and and prefer your own text editor to their online tool - you might want to use something to reload your slidedeck on save.
+Will probably be mostly outtakes from pluralsight courses in [react path](https://app.pluralsight.com/paths/skill/react).
 
-**This boilerplate does exactly that - serve `index.html` and reload it on change.** You can also add a css file at the root level, livereload will work for that as well.
+Currently going through [this one](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents) by [Cory House](https://github.com/coryhouse).
 
-Prerequisites: [npm](https://github.com/npm/npm)
-
-Getting started: 
-
-### Clone this repo including reveal.js (added here as a submodule):
-```
-git clone --recursive git@github.com:istro/revealjs-livereload-boilerplate.git
-```
-
-## Start writing up your presenttion in three trivial steps:
-
-### Ready: 
-#### Install gulp & related couple of packages
-
-```
-npm install
-```
-
-### Set: 
-#### Serve up `index.html` locally, with auto reload on save:
-
-```
-gulp
-```
-
-### Go!
-
-Add your content to `index.html` per [reveal.js](https://revealjs.com/) docs.
+Using my boiler plate code from [here](https://github.com/istro/revealjs-livereload-boilerplate) as a starting point.
